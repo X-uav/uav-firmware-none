@@ -1,0 +1,13 @@
+# sourceinsight/*
+sourceinsight/
+
+*.a
+*.o
+*.bin
+*.elf
+*.hex
+*.info_code
+*.info_elf
+*.info_size
+*.info_symbol
+*.map
